@@ -60,7 +60,7 @@
         "isActive": true
     },
     {
-        "logo": "./assets/images/logo-dom-snapshot.svg",
+        "logo": "/assets/images/logo-dom-snapshot.svg",
         "name": "DOM Snapshot",
         "description": "Capture and export DOM structures quickly.",
         "isActive": false
